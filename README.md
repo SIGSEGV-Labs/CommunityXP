@@ -1,32 +1,32 @@
 # CommunityXP
 ---  
 >
-> **Silven**: XP
+> **Silven**:0 XP
 >
-> **Lawrence**: XP
+> **Lawrence**: 0 XP
 >
-> **Josna**: XP
+> **Josna**: 0 XP
 >
-> **Varshini**: XP
+> **Varshini**: 0 XP
 >
-> **Rakesh**: XP
+> **Rakesh**: 0 0XP
 >
-> **Sathvikk**: XP
+> **Sathvikk**:XP
 >
-> **Chandrasekhar**: XP
+> **Chandrasekhar**:0 XP
 >
-> **Moinuddin**: XP
+> **Moinuddin**:0 XP
 >
 > **Kasinadh**: XP
 >
-> **Moinuddin**: XP
+> **Moinuddin**: 0 XP
 >
-> **Prabhas**: XP
+> **Prabhas**:0 XP
 >
-> **Devadithya**: XP
+> **Devadithya**: 0 XP
 >
-> **Mouli**: XP
+> **Mouli**:0 XP
 >
-> **Guna Sekhar**: XP
+> **Guna Sekhar**: 0 XP
 
 ----
