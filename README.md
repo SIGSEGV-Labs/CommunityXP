@@ -9,9 +9,9 @@
 >
 > **Varshini**: 0 XP
 >
-> **Rakesh**: 0 0XP
+> **Rakesh**: 0 XP
 >
-> **Sathvikk**:XP
+> **Sathvikk**: 0 XP
 >
 > **Chandrasekhar**:0 XP
 >
