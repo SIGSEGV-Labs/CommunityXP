@@ -7,7 +7,7 @@
 >
 > **Josna**: 19 XP
 >
-> **Varshini**: 5 XP 🌟
+> **Varshini**: 10 XP 🌟
 >
 > **Rakesh**: 20 XP
 >
@@ -29,4 +29,4 @@
 
 ----
 
-* 🌟 - The no. of events conducted.
+* 🌟 - Each one represents an event conducted.
