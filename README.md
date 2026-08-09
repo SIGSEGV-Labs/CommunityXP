@@ -3,7 +3,7 @@
 >
 > **Silven**: 5 XP
 >
-> **Lawrence**: 13 XP
+> **Lawrence**: 18 XP
 >
 > **Josna**: 19 XP
 >
