@@ -7,7 +7,7 @@
 >
 > **Josna**: 19 XP
 >
-> **Varshini**: 10 XP 🌟
+> **Varshini**: 15 XP 🌟
 >
 > **Rakesh**: 20 XP
 >
