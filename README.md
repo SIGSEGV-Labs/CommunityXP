@@ -1,11 +1,11 @@
 # CommunityXP
 ---  
 >
-> **Lawrence**: 22 XP
+> **Lawrence**: 30 XP
 >
-> **Josna**: 23 XP 🌟
+> **Josna**: 33 XP 🌟
 >
-> **Varshini**: 32 XP 🌟
+> **Varshini**: 42 XP 🌟
 >
 > **Rakesh**: 22 XP
 >
@@ -15,17 +15,17 @@
 >
 > **Moinuddin**: 4 XP
 >
-> **Kasinadh**: 7 XP
+> **Kasinadh**: 10 XP
 >
 > **Prabhas**: 2 XP
 >
-> **Devadithya**: 21 XP
+> **Devadithya**: 34 XP
 >
-> **Mouli**: 4 XP
+> **Mouli**: 30 XP
 >
 > **Guna Sekhar**: 0 XP
 >
-> **Harshitha**: 40 XP
+> **Harshitha**: 61 XP
 
 ----
 
