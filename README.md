@@ -3,8 +3,8 @@
 >
 > **Lawrence**: 30 XP
 >
-> **Josna**: 63 XP 🌟🌟
->
+> **Josna**: 68 XP 🌟🌟
+
 > **Varshini**: 42 XP 🌟🌟
 >
 > **Rakesh**: 22 XP
@@ -21,7 +21,7 @@
 >
 > **Devadithya**: 34 XP
 >
-> **Mouli**: 30 XP
+> **Mouli**: 35 XP
 >
 > **Guna Sekhar**: 0 XP
 >
